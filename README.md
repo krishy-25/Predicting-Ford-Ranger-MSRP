@@ -1,0 +1,1 @@
+The project performs linear regression on Ford Ranger prices by year. It will train two models, one for a minimum price and one for the maximum price, using historical data to predict missing prices for 2012 to 2018. Results include visualizations of the loss curve, final model parameters (theta values), and predictions for future models.
